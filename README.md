@@ -22,6 +22,6 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-![resim]()
+![resim](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
